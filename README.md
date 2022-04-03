@@ -1,2 +1,2 @@
 # urFriend-Bot
-<h3>A discord bot which send a quotes like your friend</h3>
+<h3>A discord bot which sending you a quote like a friend</h3>
